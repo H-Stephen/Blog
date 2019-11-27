@@ -3,6 +3,8 @@
 1.[通过 extendRoutes 配置项来扩展 Nuxt.js 生成的路由配置](https://github.com/H-Stephen/Blog/issues/7#issue-521295620)
 
 2.[JavaScript-阻止浏览器下载拖放的Excel文件](https://github.com/H-Stephen/Blog/issues/8#issue-525602299)
+
+3.[开发中实现svg图标hover上去改变color](https://github.com/H-Stephen/Blog/issues/11#issue-529240199)
 ## 开发经验
 1.[IOS问题汇总](https://github.com/H-Stephen/Blog/issues/9#issue-528581113)
 ## 进阶系列
