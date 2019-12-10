@@ -11,6 +11,8 @@
 1.[数组去重的几种方法](https://github.com/H-Stephen/Blog/issues/5#issue-499394032)
 
 2.[CSS黑科技](https://github.com/H-Stephen/Blog/issues/10#issue-528607411)
+
+3.[JSONP-一种解决跨域问题的方案](https://github.com/H-Stephen/Blog/issues/12#issue-535614007)
 ## 算法技巧
 1.[掘金上看到的-实现 2 个大数相加，有点意思](https://github.com/H-Stephen/Blog/issues/6#issue-519066198)
 ## 配置相关
