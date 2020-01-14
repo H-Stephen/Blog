@@ -19,5 +19,9 @@
 3.[JSONP-一种解决跨域问题的方案](https://github.com/H-Stephen/Blog/issues/12#issue-535614007)
 ## 算法技巧
 1.[掘金上看到的-实现 2 个大数相加，有点意思](https://github.com/H-Stephen/Blog/issues/6#issue-519066198)
+
+## 工具or插件
+1.[优秀的工具or插件合集](https://github.com/H-Stephen/Blog/issues/15#issue-549312896)
+
 ## 配置相关
 1.[本地电脑同时配置gitlab和github的SSH](https://github.com/H-Stephen/Blog/issues/2#issue-498031994)
