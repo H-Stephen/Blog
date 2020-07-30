@@ -14,11 +14,13 @@
 
 4.[Excel配合后端接口版导入导出问题记录](https://github.com/H-Stephen/Blog/issues/17)
 ## 进阶系列
-1.[数组去重的几种方法](https://github.com/H-Stephen/Blog/issues/5#issue-499394032)
+1.[JSONP-一种解决跨域问题的方案](https://github.com/H-Stephen/Blog/issues/12#issue-535614007)
 
-2.[CSS黑科技](https://github.com/H-Stephen/Blog/issues/10#issue-528607411)
+2.[JWT](https://github.com/H-Stephen/Blog/issues/18#issue-668328149)
 
-3.[JSONP-一种解决跨域问题的方案](https://github.com/H-Stephen/Blog/issues/12#issue-535614007)
+3.[数组去重的几种方法](https://github.com/H-Stephen/Blog/issues/5#issue-499394032)
+
+4.[CSS黑科技](https://github.com/H-Stephen/Blog/issues/10#issue-528607411)
 ## 算法技巧
 1.[掘金上看到的-实现 2 个大数相加，有点意思](https://github.com/H-Stephen/Blog/issues/6#issue-519066198)
 
