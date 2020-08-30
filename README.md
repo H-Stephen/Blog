@@ -1,3 +1,4 @@
+# 经大佬推荐  个人博客已经移到语雀   本仓库不再更新。
 # Stephen's Blog
 ## 项目遇到的问题
 1.[通过 extendRoutes 配置项来扩展 Nuxt.js 生成的路由配置](https://github.com/H-Stephen/Blog/issues/7#issue-521295620)
