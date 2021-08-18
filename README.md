@@ -1,4 +1,4 @@
-# 经大佬推荐  个人博客已经移到语雀   本仓库不再更新。
+# 个人博客已经移到语雀   本仓库不再更新。
 # 有兴趣请移步这里 [我的语雀](https://www.yuque.com/caizhanhao/elx107/awmeiw)
 # Stephen's Blog
 ## 项目遇到的问题
